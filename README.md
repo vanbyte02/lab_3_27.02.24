@@ -1,16 +1,14 @@
-# flutter_application_1
+# Лабораторная работа №3 - Магазин с 15-ю товарами (lisrView)
+## Экран авторизации 
+![image](https://github.com/vanbyte02/lab_3_27.02.24/assets/144317893/d3933186-6383-4ec0-9b6c-51ee6cc560b9)
 
-A new Flutter project.
+## Экран регистрации 
+![image](https://github.com/vanbyte02/lab_3_27.02.24/assets/144317893/89084f4f-3460-49a6-afbd-afa27395eedb)
 
-## Getting Started
+## Главный экран с товарами 
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/vanbyte02/lab_3_27.02.24/assets/144317893/c5237a15-a8e9-4fe4-849f-624fa89d28f1)
 
-A few resources to get you started if this is your first Flutter project:
+## Экран с детальной информацией о товаре 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/vanbyte02/lab_3_27.02.24/assets/144317893/507e2c69-7ba7-4700-bcab-ee29534f1e26)
